@@ -1,0 +1,160 @@
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.exe
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.deps.json
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.runtimeconfig.json
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.pdb
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Form1.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.LoginForm.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.GenerateResource.cache
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AssemblyInfoInputs.cache
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AssemblyInfo.cs
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.CoreCompileInputs.cache
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\refint\Inventory_Management.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.pdb
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.genruntimeconfig.cache
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\ref\Inventory_Management.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.AssemblyReference.cache
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Properties.Resources.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AdminDashboard.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.RegistrationForm.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventor.59BADE85.Up2Date
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AddStock.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.DeleteStock.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ManageStock.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewCustomerForm.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewOrder.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewStock.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ManageCustomer.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewOrders.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewInventory.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewSales.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.UpdateStocks.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.CustDash.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Supplierform.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AddSupplier.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.managedash.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.OrderHistoryForm.resources
+E:\c#\New folder\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.deletesupplier.resources
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.exe
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.deps.json
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.runtimeconfig.json
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Inventory_Management.pdb
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Inventory_Management\Inventory_Management\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.AssemblyReference.cache
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AddStock.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AddSupplier.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AdminDashboard.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.CustDash.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.DeleteStock.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.deletesupplier.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Form1.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.LoginForm.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ManageCustomer.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.managedash.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ManageStock.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.OrderHistoryForm.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Properties.Resources.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.RegistrationForm.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Supplierform.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.UpdateStocks.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewCustomerForm.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewInventory.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewOrder.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewOrders.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewSales.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.ViewStock.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.GenerateResource.cache
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AssemblyInfoInputs.cache
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.AssemblyInfo.cs
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.csproj.CoreCompileInputs.cache
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventor.59BADE85.Up2Date
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.dll
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\refint\Inventory_Management.dll
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.pdb
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.genruntimeconfig.cache
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\ref\Inventory_Management.dll
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.Billingform.resources
+D:\Inventory_Management\Inventory_Management\obj\Debug\net8.0-windows\Inventory_Management.LowStock.resources

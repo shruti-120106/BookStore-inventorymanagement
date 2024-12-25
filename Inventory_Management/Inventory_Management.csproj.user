@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustDash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletesupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managedash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Supplierform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
